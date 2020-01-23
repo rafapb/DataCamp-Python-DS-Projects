@@ -1,2 +1,2 @@
-# Projects
- Data science projects I have completed
+# Data Science Portfolio Projects
+ Data science projects I have completed.
