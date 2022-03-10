@@ -1,2 +1,2 @@
 # DataCamp Data Science Portfolio Projects
- DataCamp Data science projects I have completed.
+ DataCamp Data Science projects I have completed.
